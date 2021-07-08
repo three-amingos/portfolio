@@ -1,7 +1,7 @@
 # portfolio
 ### From Future @2021
 
-# To lunch application run following command 
+## To lunch application run following command 
 ### mvn clean spring-boot:run
 
 ##To run mongo db community or similar for other OS
