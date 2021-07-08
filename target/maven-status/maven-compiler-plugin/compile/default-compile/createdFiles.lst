@@ -1,0 +1,7 @@
+com/wpn/controller/BankController.class
+com/wpn/config/ResourceSecurityConfig.class
+com/wpn/model/Account.class
+com/wpn/repository/BankRepository.class
+com/wpn/service/BankService.class
+com/wpn/repository/BankDao.class
+com/wpn/SpringOauth2RestMongoApplication.class
