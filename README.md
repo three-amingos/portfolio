@@ -2,7 +2,7 @@
 ### From Future @2021
 
 #To lunch application run following command 
---mvn clean spring-boot:run
+###mvn clean spring-boot:run
 
 ##To run mongo db community or similar for other OS
 To have launchd start mongodb/brew/mongodb-community now and restart at login:
