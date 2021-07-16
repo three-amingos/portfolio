@@ -13,6 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spring-oauth2-rest-mongo</name>
 	<description>Demo project for Spring Boot</description>
+	<!-- added packaging -->
 	<packaging>war</packaging>
 	<properties>
 		<java.version>11</java.version>
@@ -68,6 +69,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+	<!-- removed version from the artifact name -->
     <finalName>${artifactId}</finalName>
 	</build>
 
