@@ -70,7 +70,7 @@
 			</plugin>
 		</plugins>
 	<!-- removed version from the artifact name -->
-    <finalName>${artifactId}</finalName>
+    <finalName>${project.artifactId}</finalName>
 	</build>
 
 </project>
