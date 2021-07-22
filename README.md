@@ -18,3 +18,4 @@
 ### UPDATE curl -X PUT -H "Content-Type: application/json" -d @payload.json http://localhost:8080/person/update/2
 
 
+### mvn test 
